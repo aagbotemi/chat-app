@@ -1,0 +1,20 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "This is a real-time chat app built with React.js, Node.js, Express.js and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "chat-app",
+    "socket.io",
+    "realtime",
+    "chat"
+  ],
+  "author": "Abiodun Awoyemi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
